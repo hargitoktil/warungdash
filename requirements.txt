@@ -1,0 +1,11 @@
+streamlit==1.65.0
+pandas==3.0.2
+numpy==2.4.4
+plotly==7.1.0
+requests==2.33.1
+openpyxl==3.1.5
+tzdata==2026.5
+# Server web bawaan Streamlit dikunci ke versi yang sudah diuji,
+# agar rilis baru tidak tiba-tiba membuat aplikasi gagal start.
+starlette==1.7.0
+uvicorn==0.54.0
