@@ -3,7 +3,7 @@
 Catatan penjualan warung yang langsung jadi dashboard, plus patokan harga jual
 dari data inflasi Badan Pusat Statistik (BPS).
 
-Aplikasi: [https://hargitoktil.streamlit.app](https://warungdash.streamlit.app/)
+Aplikasi: [https://warungdash.streamlit.app](https://warungdash.streamlit.app/)
 
 ## Fitur
 
