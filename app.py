@@ -2,7 +2,6 @@
 WarungDash: catatan penjualan warung yang langsung jadi dashboard,
 plus patokan harga jual dari data inflasi BPS.
 
-Jalankan di komputer:  streamlit run app.py
 """
 from __future__ import annotations
 
