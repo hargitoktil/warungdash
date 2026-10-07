@@ -1,17 +1,3 @@
-"""
-Jalankan di komputer Anda (pakai koneksi internet biasa di Indonesia).
-
-  python ambil_data_bps.py
-      Ambil tabel inflasi BPS lalu simpan ke data/bps_inflasi.json.
-      File ini ikut diunggah ke GitHub sebagai cadangan, karena server cloud
-      (termasuk Streamlit Cloud) bisa saja diblokir saat memanggil WebAPI BPS.
-
-  python ambil_data_bps.py --cari inflasi bulanan
-      Cari ID tabel dinamis BPS berdasarkan kata di judulnya.
-
-API key dibaca dari .streamlit/secrets.toml (BPS_API_KEY = "...")
-atau dari variabel lingkungan BPS_API_KEY.
-"""
 from __future__ import annotations
 
 import argparse
